@@ -1,4 +1,4 @@
-package java_lesson_hw_6;
+package java_lesson_hw_6.cards;
 
 public class Cards {
 
